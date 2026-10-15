@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec /opt/Isabelle2025-2/bin/isabelle env bash -c 'exec "$KODKODI/bin/kodkodi" "$@"' kodkodi "$@"

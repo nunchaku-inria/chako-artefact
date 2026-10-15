@@ -1,0 +1,6 @@
+lean-4.24.1-linux.tar.zst	dd034828721877390349ca34729d1104bf825f45444564a5aa4b22c6aea8bf70	https://github.com/leanprover/lean4/releases/download/v4.24.1/lean-4.24.1-linux.tar.zst
+cvc5-1.4.0-Linux-x86_64-static.zip	61d13483ec9c4e8d05c7f3d532225255b2183a0c03b161d37d942d1ba089ec6d	https://github.com/cvc5/cvc5/releases/download/cvc5-1.4.0/cvc5-Linux-x86_64-static.zip
+Isabelle2025-2_linux.tar.gz	a20a507bc7c1270d8be96a9f3fbec06345387789d2dc2c4d3df6260d47bfb33c	https://isabelle.in.tum.de/website-Isabelle2025-2/dist/Isabelle2025-2_linux.tar.gz
+nunchaku-d23a876.tar.gz	0451d320acd2c0216c55c2555248ebab3acd66ebff3af903a08937abba4de9f5	https://github.com/nunchaku-inria/nunchaku/archive/d23a876d788e9d7fb59ec58a003cf1d0765723f1.tar.gz
+smbc-9302783.tar.gz	d105cc9d5c8c93784cb181b572192a44b7dc0f682d7c584fa56cd47daf72f4dc	https://github.com/c-cube/smbc/archive/930278367b0a4a46eb0378455fe78dc99fc3133e.tar.gz
+chako-lean-e1075cc.tar.gz	53981f73cae8fc982d14595a7fc2d5c60be21110c6dec0f73314b963d5cba7f5	https://github.com/hargoniX/chako-lean/archive/e1075cc47c30b9f5f081543bc7f7f0edaa836f42.tar.gz
