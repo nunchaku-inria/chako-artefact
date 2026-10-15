@@ -103,6 +103,13 @@ $ ./run.sh report
 At `PARALLEL=20` this takes a few hours and should ultimately return latex tables close to the
 Chako performance tables presented in the paper.
 
+
+If you wish to inspect the artefact more deeply you can run
+```sh
+$ ./run.sh shell
+```
+to obtain a shell inside of the container.
+
 ## Packaging the Artefact
 The artefact is supposed to be shipped with all of its vendored dependencies already downloaded.
 For this run:
@@ -112,9 +119,3 @@ $ ./run.sh fetch
 This will download every archive listed in `vendor.tsv` with its SHA-256. The repository in this
 state should be enough to package up into an archive and upload. To validate that the artefact works
 refer to "Using the Artefact above".
-
-If you wish to inspect the artefact deeper you can run
-```sh
-$ ./run.sh shell
-```
-to obtain a shell inside of the container.
