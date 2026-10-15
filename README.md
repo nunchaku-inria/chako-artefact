@@ -1,4 +1,4 @@
-# Chako artefact
+# Chako Artefact
 
 This is an artefact for the Chako evaluation of the paper
 "Nunchaku: A Modular Higher-Order Model Finder".
