@@ -11,6 +11,10 @@ $ ./run.sh fetch
 to ensure that all the dependencies are already downloaded at their correct SHA. If a dependency is
 not downloaded (which should not be the case) this will also attempt to download it.
 
+> [!NOTE]
+> The remainder of the artefact is based on a Docker image, you will either need `docker` or
+> `podman` installed to proceed from here on.
+
 Then build the docker image and compile Chako inside of the image using:
 ```sh
 $ ./run.sh image
